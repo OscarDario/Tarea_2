@@ -1,0 +1,31 @@
+id_provincia,provincia,region,ciudad,pais
+C-Tex,Texas,Central,Houston,United States
+C-Ill,Illinois,Central,Naperville,United States
+E-Pen,Pennsylvania,Este,Philadelphia,United States
+S-Ken,Kentucky,Sur,Henderson,United States
+S-Geo,Georgia,Sur,Athens,United States
+O-Cal,California,Oeste,Los Angeles,United States
+S-Vir,Virginia,Sur,Springfield,United States
+E-Del,Delaware,Este,Dover,United States
+S-Sou,South Carolina,Sur,Mount Pleasant,United States
+E-Ohi,Ohio,Este,Newark,United States
+S-Lou,Louisiana,Sur,Bossier City,United States
+O-Ore,Oregon,Oeste,Springfield,United States
+O-Ari,Arizona,Oeste,Scottsdale,United States
+S-Ark,Arkansas,Sur,Jonesboro,United States
+C-Mic,Michigan,Central,Westland,United States
+S-Ten,Tennessee,Sur,Smyrna,United States
+S-Flo,Florida,Sur,Miami,United States
+E-Ont,Ontario,Este,Toronto,Canada
+C-Ind,Indiana,Central,Lafayette,United States
+O-Nev,Nevada,Oeste,Las Vegas,United States
+C-Sou,South Dakota,Central,Rapid City,United States
+E-New,New York,Este,New York City,United States
+C-Wis,Wisconsin,Central,Green Bay,United States
+O-Was,Washington,Oeste,Seattle,United States
+E-New,New Jersey,Este,Linden,United States
+C-Mis,Missouri,Central,Columbia,United States
+S-Nor,North Carolina,Sur,Wilmington,United States
+O-Col,Colorado,Oeste,Denver,United States
+O-Alb,Alberta,Oeste,Calgary,Canada
+O-Uta,Utah,Oeste,Logan,United States
