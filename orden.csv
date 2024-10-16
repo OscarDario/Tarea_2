@@ -1,4 +1,4 @@
-Fecha_orden,ID_orden,id_producto,Fecha de Envio,Cantidad,id_cliente
+Fecha_orden,ID_orden,id_producto,Fecha_de_Envio,Cantidad,id_cliente
 03/03/2019,US-2019-130421,10-LI-180,07/03/2019,3,101867
 13/01/2019,US-2019-162775,10-LI-181,15/01/2019,3,101814
 13/01/2019,US-2019-157147,10-LI-182,18/01/2019,5,101811
